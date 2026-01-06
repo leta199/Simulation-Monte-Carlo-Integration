@@ -34,8 +34,8 @@ Since this summation will also be difficult to evaluate, we must manipulate it i
 ## PROJECT STRUCTURE           
 |[Monte Carlo Integration](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
 |├──[theaoretical_solution](https://github.com/leta199/Monte-Carlo-Integration/tree/main/theoretical_solution)  
-│  ├──[Linear Regression Finance Application](https://github.com/leta199/Linear-Regression/blob/main/finance_application/Linear_Regression_Finance.ipynb)   
-│  └──[Finance data](https://github.com/leta199/Linear-Regression/blob/main/finance_application/finance_data.csv)  
+│  ├──[Monte Carlo Integration - Integral](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20integral.pdf)   
+│  └──[Monte Carlo Integration - Summation](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20summation.pdf)  
 │    
 |├──[model](https://github.com/leta199/Linear-Regression/tree/main/model)  
 │  ├──[Linear regression.py](https://github.com/leta199/Linear-Regression/blob/main/model/LinearRegression.py)      
