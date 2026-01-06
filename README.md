@@ -35,20 +35,11 @@ Since this summation will also be difficult to evaluate, we must manipulate it i
 |[Monte Carlo Integration](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
 |├──[theoretical_solution](https://github.com/leta199/Monte-Carlo-Integration/tree/main/theoretical_solution)  
 │  ├──[Monte Carlo Integration - Integral](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20integral.pdf)   
-│  └──[Monte Carlo Integration - Summation](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20summation.pdf)  
+│  └──[Monte Carlo Integration - Summation](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20summation.pdf)      
 │    
-|├──[model](https://github.com/leta199/Linear-Regression/tree/main/model)  
-│  ├──[Linear regression.py](https://github.com/leta199/Linear-Regression/blob/main/model/LinearRegression.py)      
-│  ├──[Linear Regression (core model)](https://github.com/leta199/Linear-Regression/blob/main/model/Linear_Regression.ipynb)      
-│  ├──[Mathematical logic](https://github.com/leta199/Linear-Regression/blob/main/model/Mathematical%20logic.pdf)      
-│  └──[__init__](https://github.com/leta199/Linear-Regression/blob/main/model/__init__.py)     
-│    
-|├──[data](https://github.com/leta199/Linear-Regression/tree/main/data)    
-│  ├──[decile to cancel csv](https://github.com/leta199/Linear-Regression/blob/main/data/decile_cancel_to_trade_stock.csv)  
-│  └──[requirements](https://github.com/leta199/Linear-Regression/blob/main/data/requirements.txt)  
-|  
-|├──[License](https://github.com/leta199/Linear-Regression/blob/main/LICENSE)  
-|└──[README](https://github.com/leta199/Linear-Regression/blob/main/README.md)
+|├──[Monte Carlo Integration R script](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)    
+│  
+|└──[README](https://github.com/leta199/Monte-Carlo-Integration/blob/main/README.md)
   
 ## AUTHORS   
 [leta199](https://github.com/leta199)  
